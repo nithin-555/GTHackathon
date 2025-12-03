@@ -1,0 +1,12 @@
+pandas
+python-pptx
+fpdf
+matplotlib
+google-generativeai
+python-dotenv
+sqlalchemy
+openpyxl
+streamlit
+reportlab
+seaborn
+
